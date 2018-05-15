@@ -12,7 +12,7 @@ El lenguaje Python puede ser usado eficientemente para el procesamiento de datos
 
 El siguiente grafo muestra donde encaja este tutorial en el proceso.
 
-![readme-Python-ETL](images/readme-Python-ETL.jpg)
+![readme.jpg](images/readme.jpg)
 
 ## Objetivos
 
